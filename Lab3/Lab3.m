@@ -14,3 +14,5 @@ GR = GPID*GF;
 
 %% Kretsöverföringsfunktionen
 GK = GR*GP;
+
+GTOT = (GPI*GP)/(1+GPI*GP*GF^2+GP*GD*GF);
