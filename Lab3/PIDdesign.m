@@ -7,9 +7,9 @@
 % * Fasvridning i wc (phiGPwc [rad])
 
 %% Designparametrar
-wc = 0.09;
-Phim = 65*(pi/180);
-K8 = 4.5;
+wc = 0.088;             % 0.088 Ursprunligen: 0.07
+Phim = 66*(pi/180);     % 66    Ursprunligen: 30   
+K8 = 6;                 % 4.5   Ursprunligen: 4.5
 
 %% Processparametrar
 K1 = 5.41;
